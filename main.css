@@ -1,0 +1,93 @@
+<<<<<<< HEAD
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+#scoreLine {
+  position: absolute;
+  left: 600px;
+}
+#deathLine {
+	position: absolute;
+	left: 600px;
+	top: 40px;
+}
+#maxscoreLine {
+	position: absolute;
+	left: 600px;
+	top: 20px;
+}
+#deaths{
+	display: inline;
+}
+#score {
+  display: inline;
+}
+#maxScore {
+	display: inline;
+}
+=======
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+#scoreLine {
+  position: absolute;
+  left: 600px;
+}
+#deathLine {
+	position: absolute;
+	left: 600px;
+	top: 40px;
+}
+#maxscoreLine {
+	position: absolute;
+	left: 600px;
+	top: 20px;
+}
+#deaths{
+	display: inline;
+}
+#score {
+  display: inline;
+}
+#maxScore {
+	display: inline;
+}
+>>>>>>> 6de7890dadec0bd5fdeaf87b6919746e36729d26
